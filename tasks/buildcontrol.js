@@ -9,7 +9,7 @@ module.exports = function (grunt) {
     options: {
       commit: true,
       push: true,
-      remote: 'git@github.com:shane-tomlinson/function.git'
+      remote: 'git@github.com:shane-tomlinson/function-utils.git'
     },
     release: {
       options: {
