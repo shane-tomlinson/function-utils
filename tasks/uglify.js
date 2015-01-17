@@ -11,7 +11,7 @@ module.exports = function (grunt) {
     },
     dist: {
       files: {
-        'build/function-utils.min.js': ['build/function-utils.js']
+        'build/function.min.js': ['build/function.js']
       }
     }
   });

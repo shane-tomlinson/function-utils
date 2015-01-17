@@ -8,7 +8,7 @@ module.exports = function (grunt) {
   grunt.config('markdox', {
     dist: {
       files: [
-        { src: 'src/function-utils.js', dest: 'docs/api.md' }
+        { src: 'src/function.js', dest: 'docs/api.md' }
       ]
     }
   });

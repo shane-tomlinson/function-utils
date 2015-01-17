@@ -7,7 +7,7 @@ module.exports = function (grunt) {
 
   grunt.config('bytesize', {
     all: {
-      src: ['build/function-utils.js', 'build/function-utils.min.js']
+      src: ['build/function.js', 'build/function.min.js']
     }
   });
 };

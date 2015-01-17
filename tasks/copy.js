@@ -7,8 +7,8 @@ module.exports = function (grunt) {
 
   grunt.config('copy', {
     dist: {
-      src: 'src/function-utils.js',
-      dest: 'build/function-utils.js'
+      src: 'src/function.js',
+      dest: 'build/function.js'
     }
   });
 };
