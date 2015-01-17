@@ -1,6 +1,6 @@
 {
   "name": "function-utils",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Some function helpers not available in ES*",
   "author": "Shane Tomlinson <shane@shanetomlinson.com>",
   "main": "function-utils.js",
