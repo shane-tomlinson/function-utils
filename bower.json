@@ -1,0 +1,22 @@
+{
+  "name": "function-utils",
+  "version": "0.0.1",
+  "description": "Some function helpers not available in ES*",
+  "author": "Shane Tomlinson <shane@shanetomlinson.com>",
+  "main": "function-utils.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+  ],
+  "license": "MPL 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
