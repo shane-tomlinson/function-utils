@@ -2,6 +2,13 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
+/**
+ * Some utilities for working with function that are not available
+ * in JavaScript by default.
+ *
+ * @method FunctionUtils
+ */
+
 // if the module has no dependencies, the above pattern can be simplified to
 (function (root, factory) {
   'use strict';
